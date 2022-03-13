@@ -1,0 +1,100 @@
+/* todo o corpo da imagem */
+body{
+    background: #272727;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+.cima_pag{
+    background-color: gray;
+}
+
+/* cor das fontes do titulo e dos subtitulos */
+#title, .subtitle, .post_title{
+    color: white;
+}
+
+/* div que centraliza imagem no titulo e responsavel por tudo que está no titulo */
+.title_pag{
+    text-align: center;
+}
+
+/* imagem logo */
+.logo{
+    width: 100px;
+    /* margin-bottom: 15px;    */
+    
+}
+/* fontes usadas no titulo da pagina abaixo do logo */
+#title{
+    margin: 0;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+
+/* titulo da minha descrição */
+.post_title{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.perfil{
+    text-align: center;
+}
+/* imagem do cachorro */
+.post_image{
+    width: 30%;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 40%;
+    border: 2px solid white;
+}
+
+/* bloco da minha descrição */
+.post{
+    /* background-color: black; */
+    padding: 10px;
+    margin: 10px;
+}
+
+/* texto sobre mim */
+.text1{
+    text-align: justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 15px;
+    color: white;
+}
+
+/* bloco dos contatos no rodapé */
+.contacts{
+    background-color: white;
+    border: 5px dashed black;
+    padding-left: 20px ;
+    margin: 10px;
+}
+
+/* contatos */
+.contacts_list{
+    padding: 0;
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+.contacts_list li a{
+    text-decoration: none;
+    color: blue;
+}
+
+.name{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;   
+}
