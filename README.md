@@ -1,6 +1,6 @@
-# Eduzz Fullstack Developer BootCamp DIO 👨‍💻
+# Projetos Fullstack Developer BootCamps DIO 👨‍💻
 
-### Repositório criado para o versionamento dos conteúdos do Bootcamp da Eduzz pela Digital Innovation One
+### Repositório criado para o versionamento dos conteúdos dos Bootcamps da Digital Innovation One
 
   - Anotações
   - Certificados
