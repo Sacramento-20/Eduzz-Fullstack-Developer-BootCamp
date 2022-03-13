@@ -73,6 +73,34 @@ body{
     color: white;
 }
 
+.teste{
+    text-align: center;
+    width: auto;
+    height: 350px;
+    padding: 10px;
+    /* margin: 10px; */
+    margin-top: 0px;
+    background-color:gray;
+}
+
+.bloco1{
+    background-color: white;
+    float: left;
+    width: 340px;
+    height: 250px;
+    /* margin: 10px; */
+}
+
+.bloco2{
+    background-color:white;
+    float: right;
+    width: 340px;
+    height: 250px;
+    /* margin: 10px; */
+}
+
+
+
 /* bloco dos contatos no rodapé */
 .contacts{
     background-color: white;
